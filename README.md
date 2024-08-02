@@ -33,3 +33,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Esse projeto usa o Primeng uma biblioteca de interface para o angular ela é open source
 link https://primeng.org/ 
 
+
+PROJETO NÃO FOI FIANLIZADO DEVIDO AO PRIMENG ESTAR DESATUALIZADO A PARTE DO FLEXGRID E ESTAVA DANDO MUITO TRABALHO PARA DEIXAR COMPATIVEL COM AS ALTERAÇÕES ATUAIS.
